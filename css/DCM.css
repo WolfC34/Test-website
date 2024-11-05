@@ -1,3 +1,4 @@
+/* body styles*/
 body{
 	margin: 0;
 	font-family: Helvetica, Arial, sans-serif;
@@ -5,6 +6,7 @@ body{
 	line-height: 30px;
 
 }
+/* header styles*/
 
 header{
 	background-color: black;
@@ -23,6 +25,7 @@ header img{
 	border: 5px solid white;
 }
 
+/*main styles*/
 main{
 	max-width: 800px;
 	margin: 0 auto;
